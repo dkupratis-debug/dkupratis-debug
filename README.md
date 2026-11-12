@@ -24,7 +24,7 @@
 - **Consulting & teaching:** IT consulting through CR8Haven LLC; taught at Cybrary.
 
 <p align="center">
-  <strong>Now building:</strong> <a href="https://github.com/dkupratis-debug/log-watcher">log-watcher</a>, a Python CLI that watches application logs and flags error spikes and new error patterns.
+  <strong>Now building:</strong> <a href="https://github.com/dkupratis-debug/log-watcher">log-watcher</a>, a log-watching CLI. Parses common log formats and flags error-rate spikes per error type; CLI output and tail mode are next.
 </p>
 
 <h2 align="center">Featured work</h2>
@@ -34,7 +34,7 @@
 | [support-qa-toolkit](https://github.com/dkupratis-debug/support-qa-toolkit) | `sqt ticket2bug` and `sqt triage`. Stdlib only at runtime. |
 | [api-test-suite](https://github.com/dkupratis-debug/api-test-suite) | JSONPlaceholder client and pytest contract tests. Mocked by default. |
 | [FlaskAppEnhanced](https://github.com/dkupratis-debug/FlaskAppEnhanced) | Flask app with CSRF, rate limits, and security headers. |
-| [log-watcher](https://github.com/dkupratis-debug/log-watcher) | Log-watching CLI. Parses common log formats into structured records; spike detection is next. |
+| [log-watcher](https://github.com/dkupratis-debug/log-watcher) | Log-watching CLI. Parses common log formats and flags error-rate spikes per error type; CLI output and tail mode are next. |
 
 <p align="center">
   <a href="https://github.com/dkupratis-debug/support-qa-toolkit">
