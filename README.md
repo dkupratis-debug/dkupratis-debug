@@ -1,23 +1,27 @@
 # David Kupratis
 
-Support engineer and ERP/NetSuite specialist with about 22 years in IT, including support engineering at SAP, cloud systems work at Medidata, and NetSuite leadership. I also run CR8Haven LLC for IT consulting and previously taught as a TA/instructor for Cybrary.
+Support engineer who turns messy tickets and logs into clear bug reports, tests, and fixes.
 
-I'm now building in public around test automation, CI, and secure-by-default Python, and I'm interested in support engineering, QA, tooling, and automation roles.
+About 22 years in IT, including support engineering at SAP, cloud systems work at Medidata, and NetSuite leadership. I run CR8Haven LLC for IT consulting and previously taught as a TA/instructor for Cybrary. I'm looking for support engineering, QA, tooling, and automation roles.
 
-## Featured project
+## Featured projects
+
+**[support-qa-toolkit](https://github.com/dkupratis-debug/support-qa-toolkit)**  
+A Python CLI for support and QA work: `sqt ticket2bug` turns a support ticket into a structured bug report with a severity call, and `sqt triage` summarizes logs (error counts, first/last seen, spikes, repeats). Standard library only, 57 pytest tests, CI on every PR.
 
 **[FlaskAppEnhanced](https://github.com/dkupratis-debug/FlaskAppEnhanced)**  
-A Flask app scaffold with security defaults (CSRF protection, rate limiting, and security headers), a pytest suite, and GitHub Actions for CI, releases, and container images. It is also a hands-on example of pull requests, workflows, and a secure-by-default Python setup.
+A Flask app with security defaults (CSRF protection, rate limiting, strict security headers), a pytest suite, and GitHub Actions for CI, CodeQL, releases, and container images.
 
-## Currently learning / building
+## Tools
 
-This section is learning work, not a claim of production ownership:
+Python · pytest · GitHub Actions · Flask · Git/GitHub · NetSuite / SuiteScript
 
-- Python test automation with pytest and Playwright
-- GitHub Actions
-- Security scanning
+## Currently learning
 
-## Contact
+- Browser test automation with Playwright
+- Expanding CI and security scanning
 
-- GitHub: [github.com/dkupratis-debug](https://github.com/dkupratis-debug)
+## Links
+
+- Portfolio build log: [dave-github-portfolio.deed.page](https://dave-github-portfolio.deed.page/)
 - LinkedIn: [linkedin.com/in/davidkupratis](https://www.linkedin.com/in/davidkupratis)
