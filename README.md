@@ -47,8 +47,12 @@ A Flask app with security defaults (CSRF protection, rate limiting, strict secur
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=dkupratis-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats for dkupratis-debug" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dkupratis-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub stats for dkupratis-debug" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkupratis-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for dkupratis-debug" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://jeskei-readme-activity-graph.vercel.app/graph?username=dkupratis-debug&theme=tokyo-night&hide_border=true" alt="Contribution activity graph for dkupratis-debug" width="100%" />
 </p>
 
 ## Links
