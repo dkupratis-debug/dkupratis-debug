@@ -25,7 +25,7 @@ About 22 years in IT, with an MBA.
 | [support-qa-toolkit](https://github.com/dkupratis-debug/support-qa-toolkit) | `sqt ticket2bug` and `sqt triage`. Stdlib only at runtime. |
 | [api-test-suite](https://github.com/dkupratis-debug/api-test-suite) | JSONPlaceholder client and pytest contract tests. Mocked by default. |
 | [FlaskAppEnhanced](https://github.com/dkupratis-debug/FlaskAppEnhanced) | Flask app with CSRF, rate limits, and security headers. |
-| [log-watcher](https://github.com/dkupratis-debug/log-watcher) | Log-watching CLI. Scaffold and CI are done; parsing is in progress. |
+| [log-watcher](https://github.com/dkupratis-debug/log-watcher) | Log-watching CLI. Parses common log formats into structured records; spike detection is next. |
 
 <p align="center">
   <a href="https://github.com/dkupratis-debug/support-qa-toolkit">
