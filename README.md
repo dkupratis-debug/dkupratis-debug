@@ -14,6 +14,8 @@ About 22 years in IT, including support engineering at SAP, cloud systems work a
 - **ERP & automation:** NetSuite Lead at Open Society Foundations; SuiteScript and integrations.
 - **Consulting & teaching:** IT consulting through CR8Haven LLC; taught at Cybrary.
 
+**Now building:** [log-watcher](https://github.com/dkupratis-debug/log-watcher), a Python CLI that watches application logs and flags error spikes and new error patterns.
+
 ## Featured work
 
 | Project | What it does | Stack |
@@ -21,6 +23,7 @@ About 22 years in IT, including support engineering at SAP, cloud systems work a
 | [support-qa-toolkit](https://github.com/dkupratis-debug/support-qa-toolkit) | Python CLI for the support-to-QA workflow. `sqt ticket2bug` turns a ticket into a structured bug report, and `sqt triage` turns an application log into an error summary. Standard library only at runtime; no language model and no network calls. | Python 3.11+, pytest, ruff, GitHub Actions |
 | [api-test-suite](https://github.com/dkupratis-debug/api-test-suite) | Python client for JSONPlaceholder plus pytest contract tests, mocked by default with an optional `--live` mode. CI on Python 3.11 and 3.12. | Python, requests, pytest, responses, jsonschema, GitHub Actions |
 | [FlaskAppEnhanced](https://github.com/dkupratis-debug/FlaskAppEnhanced) | Small Flask app with HTML pages, a CSRF form, a JSON echo endpoint, structured request logs, rate limiting, and security headers. | Python, Flask, Flask-WTF, Flask-Limiter, gunicorn, pytest; GitHub Actions for CI, CodeQL, releases, and container images |
+| [log-watcher](https://github.com/dkupratis-debug/log-watcher) | Work-in-progress Python CLI. Scaffold and CI are done; log parsing is in progress. | Python, pytest, GitHub Actions |
 
 <p align="center">
   <a href="https://github.com/dkupratis-debug/support-qa-toolkit">
