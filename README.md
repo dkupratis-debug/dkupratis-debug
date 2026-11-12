@@ -14,22 +14,25 @@ About 22 years in IT, including support engineering at SAP, cloud systems work a
 - **ERP & automation:** NetSuite Lead at Open Society Foundations; SuiteScript and integrations.
 - **Consulting & teaching:** IT consulting through CR8Haven LLC; taught at Cybrary.
 
-## Featured projects
+## Featured work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [support-qa-toolkit](https://github.com/dkupratis-debug/support-qa-toolkit) | Python CLI for the support-to-QA workflow. `sqt ticket2bug` turns a ticket into a structured bug report, and `sqt triage` turns an application log into an error summary. Standard library only at runtime; no language model and no network calls. | Python 3.11+, pytest, ruff, GitHub Actions |
+| [api-test-suite](https://github.com/dkupratis-debug/api-test-suite) | Python client for JSONPlaceholder plus pytest contract tests, mocked by default with an optional `--live` mode. CI on Python 3.11 and 3.12. | Python, requests, pytest, responses, jsonschema, GitHub Actions |
+| [FlaskAppEnhanced](https://github.com/dkupratis-debug/FlaskAppEnhanced) | Small Flask app with HTML pages, a CSRF form, a JSON echo endpoint, structured request logs, rate limiting, and security headers. | Python, Flask, Flask-WTF, Flask-Limiter, gunicorn, pytest; GitHub Actions for CI, CodeQL, releases, and container images |
 
 <p align="center">
   <a href="https://github.com/dkupratis-debug/support-qa-toolkit">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=dkupratis-debug&repo=support-qa-toolkit&theme=tokyonight&hide_border=true" alt="support-qa-toolkit" />
   </a>
+  <a href="https://github.com/dkupratis-debug/api-test-suite">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=dkupratis-debug&repo=api-test-suite&theme=tokyonight&hide_border=true" alt="api-test-suite" />
+  </a>
   <a href="https://github.com/dkupratis-debug/FlaskAppEnhanced">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=dkupratis-debug&repo=FlaskAppEnhanced&theme=tokyonight&hide_border=true" alt="FlaskAppEnhanced" />
   </a>
 </p>
-
-**[support-qa-toolkit](https://github.com/dkupratis-debug/support-qa-toolkit)**  
-A Python CLI for support and QA work: `sqt ticket2bug` turns a support ticket into a structured bug report with a severity call, and `sqt triage` summarizes logs (error counts, first/last seen, spikes, repeats). Standard library only, 57 pytest tests, CI on every PR.
-
-**[FlaskAppEnhanced](https://github.com/dkupratis-debug/FlaskAppEnhanced)**  
-A Flask app with security defaults (CSRF protection, rate limiting, strict security headers), a pytest suite, and GitHub Actions for CI, CodeQL, releases, and container images.
 
 ## Tools
 
@@ -41,8 +44,7 @@ A Flask app with security defaults (CSRF protection, rate limiting, strict secur
 
 ## Currently learning
 
-- Browser test automation with Playwright
-- Expanding CI and security scanning
+Playwright and pytest.
 
 ## GitHub stats
 
@@ -58,4 +60,9 @@ A Flask app with security defaults (CSRF protection, rate limiting, strict secur
 ## Links
 
 - Portfolio build log: [dave-github-portfolio.deed.page](https://dave-github-portfolio.deed.page/)
+
+## Contact / more
+
 - LinkedIn: [linkedin.com/in/davidkupratis](https://www.linkedin.com/in/davidkupratis)
+- CR8Haven: [cr8haven.com](https://www.cr8haven.com)
+- Older work and forks: [@DavidKupratis](https://github.com/DavidKupratis)
