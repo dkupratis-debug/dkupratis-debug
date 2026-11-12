@@ -8,6 +8,12 @@ Support engineer who turns messy tickets and logs into clear bug reports, tests,
 
 About 22 years in IT, including support engineering at SAP, cloud systems work at Medidata, and NetSuite leadership. I run CR8Haven LLC for IT consulting and previously taught as a TA/instructor for Cybrary. I'm looking for support engineering, QA, tooling, and automation roles.
 
+## What I do
+- **Support engineering:** Senior Support Consultant / Support Engineer at SAP; I take customer issues from first report to root cause.
+- **Systems & cloud:** Cloud System Engineer at Medidata.
+- **ERP & automation:** NetSuite Lead at Open Society Foundations; SuiteScript and integrations.
+- **Consulting & teaching:** IT consulting through CR8Haven LLC; taught at Cybrary.
+
 ## Featured projects
 
 <p align="center">
