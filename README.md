@@ -45,10 +45,6 @@ A Flask app with security defaults (CSRF protection, rate limiting, strict secur
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkupratis-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for dkupratis-debug" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dkupratis-debug&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for dkupratis-debug" />
-</p>
-
 ## Links
 
 - Portfolio build log: [dave-github-portfolio.deed.page](https://dave-github-portfolio.deed.page/)
