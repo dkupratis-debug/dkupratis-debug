@@ -21,6 +21,13 @@ Python · pytest · GitHub Actions · Flask · Git/GitHub · NetSuite / SuiteScr
 - Browser test automation with Playwright
 - Expanding CI and security scanning
 
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=dkupratis-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" alt="GitHub stats for dkupratis-debug" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkupratis-debug&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages for dkupratis-debug" height="165" />
+</p>
+
 ## Links
 
 - Portfolio build log: [dave-github-portfolio.deed.page](https://dave-github-portfolio.deed.page/)
