@@ -87,9 +87,3 @@
 </p>
 
 </details>
-
-<h2 align="center">Contact / more</h2>
-
-<p align="center">
-  Older work and forks: <a href="https://github.com/DavidKupratis">@DavidKupratis</a>
-</p>
